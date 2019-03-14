@@ -1,0 +1,17 @@
+{
+  "name": "Voilet-salesforce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nforce": "^1.10.2",
+    "sync-request": "^6.0.0",
+    "violet": "^0.15.0"
+  }
+}
